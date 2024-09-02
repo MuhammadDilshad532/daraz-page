@@ -1,0 +1,210 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+/* navbar css start */
+/* top nav  start  */
+.navcontainer {
+    width: 100vw;
+    height: 150px;
+    background-color: #f85606;
+    color: white;
+    padding: 15px;
+    position: fixed;
+}
+
+.subcontainer {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.itemscon {
+    display: flex;
+
+}
+
+.navitems {
+    margin-left: 30px;
+    font-size: large;
+}
+
+.rightname {
+    width: 180px;
+    height: 35px;
+    background-color: #a5400e;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+
+
+}
+
+.iconimg {
+    width: 20px;
+    height: 20px;
+}
+
+/* top nav  end */
+/* botom nav start */
+.botomnavlogo {
+    width: 100px;
+    height: 30px;
+}
+
+.Searchbar {
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+
+}
+
+.shpoingcords {
+    width: 500px;
+}
+
+.text {
+    font-size: larger;
+    font-weight: bold;
+
+}
+
+.Searchicon {
+    display: flex;
+}
+
+.sericon {
+    width: 30px;
+    margin: -40px;
+    margin-bottom: -20px;
+    color: #a5400e;
+}
+
+.iconsize {
+    width: 30px;
+}
+
+/* botom nav end */
+
+
+
+/* contentimg :start */
+
+.contentimg1 {
+    width: 100vw;
+    margin-top: 150px;
+}
+
+.contentimg2 {
+    width: 100vw;
+
+}
+
+
+/* cords start  */
+
+
+/* new super mix cords start */
+.cordsmain {
+    width: 100vw;
+    height: 400px;
+    background-color: #bcc7d0;
+    border: 2px solid black;
+    display: flex;
+    margin-top: 20px;
+}
+
+.newsuperimg {
+    width: 300px;
+
+}
+
+.shampoimg {
+    width: 300px;
+}
+
+.maincordscontainer {
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    overflow: hidden;
+}
+
+.cords {
+    width: 300px;
+    height: 395px;
+    overflow: hidden;
+    background-color: #fff;
+
+}
+
+.productname {
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+
+.productprice {
+    margin-left: 10px;
+    color: #f85606;
+    font-weight: bold;
+
+}
+
+.offprice {
+    margin-left: 10px;
+
+}
+/* new super mix cords end */
+
+
+/* Just for You cords start */
+.Justforcornsmain{
+    padding: 20px;
+    background-color: #e2ebf3;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+
+}
+.JustforYouh{
+    padding: 10px;
+    background-color: #e7eef3;
+}
+
+/* Just for You cords end */
+ /* footer start */
+ .footermaincont{
+    background-color: #deebf5;
+    display: flex;
+    padding: 20px;
+    gap: 50px;
+ }
+  h2{
+    color: rgb(255, 123, 0);
+    padding: 10px;
+  }
+  .footertext:hover{
+    border-bottom: 1px solid black;
+   
+  }
+  .falgscont{
+    display: flex;
+    gap: 30px;
+    margin-top: 15px;
+  }
+  .falgs{
+    display: flex;
+    gap: 8px;
+    
+  }
+  .falgsimg{
+    width: 30px;
+  }
