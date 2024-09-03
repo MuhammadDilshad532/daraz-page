@@ -208,3 +208,12 @@
   .falgsimg{
     width: 30px;
   }
+  .qrcodeimg{
+    display: flex;
+    gap: 10px;
+  }
+ .HappShopping{
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+ }
