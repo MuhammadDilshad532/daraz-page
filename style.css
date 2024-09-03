@@ -2,12 +2,14 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-   
+
 
 }
-body{
+
+body {
     background-color: #deebf5;
 }
+
 .maincontent {
     padding-right: 10px;
     padding-left: 10px;
@@ -73,6 +75,7 @@ body{
     font-weight: bold;
 
 }
+
 .Searchbar2 {
     width: 300px;
     height: 40px;
@@ -100,12 +103,14 @@ body{
     margin-bottom: -20px;
     color: #a5400e;
 }
+
 .sericon2 {
     width: 30px;
     margin: -40px;
     margin-top: -60px;
     color: #a5400e;
 }
+
 .iconsize {
     width: 30px;
 }
@@ -251,14 +256,57 @@ h2 {
     margin-top: 10px;
 }
 
+/* footer ends  */
+/* Homepage start */
 .Homepagemain {
     width: 100%;
     height: 70px;
-    background-color:white;
+    background-color: white;
     display: flex;
     padding-top: 10px;
     justify-content: space-around;
-    position:sticky;
-    top: 130px;
+    position: sticky;
+    top: 129px;
+
+}
+
+/* Homepage end */
+
+
+/* Sunsilk strat  */
+.Sunsilkmain{
+    width: 100%;
+    height: 120px;
+    background-color: #b6096a;
+    display: flex;
+    justify-content: space-between;
+
+}
+.inersunsilk{
+    width: 40%;
+    height: 90px;
+    background-color: #fff;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    justify-content: space-evenly;
+
+}
+.sunslikimg1{
+    width: 50px;
+    height: 50px;
+}
+.sunslikimg2{
+    width: 50px;
     
+}
+.sunslikimg5{
+  height: 70px;
+  margin-top: 20px;
+    
+}
+.Followers{
+    margin-top: 30px;
 }
