@@ -4,7 +4,10 @@
     box-sizing: border-box;
     
 }
-
+.maincontent{
+    padding-right: 10px;
+    padding-left: 10px;
+}
 /* navbar css start */
 /* top nav  start  */
 .navcontainer {
@@ -96,12 +99,16 @@
 /* contentimg :start */
 
 .contentimg1 {
-    width: 100vw;
+    width: 100%;
     margin-top: 150px;
+    height: auto;
+    
 }
 
 .contentimg2 {
-    width: 100vw;
+    width: 100%;
+    height: auto;
+   
 
 }
 
@@ -111,7 +118,7 @@
 
 /* new super mix cords start */
 .cordsmain {
-    width: 100vw;
+    width: 100%;
     height: 400px;
     background-color: #bcc7d0;
     border: 2px solid black;
